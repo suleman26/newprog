@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\Dutch retreat\Dutch retreat\obj\Release\netcoreapp3.1\PubTmp\Out\Dutch retreat.exe
+C:\Users\USER\source\repos\Dutch retreat\Dutch retreat\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\USER\source\repos\Dutch retreat\Dutch retreat\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\USER\source\repos\Dutch retreat\Dutch retreat\obj\Release\netcoreapp3.1\PubTmp\Out\Dutch retreat.dll
+C:\Users\USER\source\repos\Dutch retreat\Dutch retreat\obj\Release\netcoreapp3.1\PubTmp\Out\Dutch retreat.deps.json
+C:\Users\USER\source\repos\Dutch retreat\Dutch retreat\obj\Release\netcoreapp3.1\PubTmp\Out\Dutch retreat.runtimeconfig.json
+C:\Users\USER\source\repos\Dutch retreat\Dutch retreat\obj\Release\netcoreapp3.1\PubTmp\Out\Dutch retreat.pdb
